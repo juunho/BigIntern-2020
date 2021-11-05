@@ -13,7 +13,10 @@ Status: Completed
 
 ### Table of Contents
 * [Data Analytics](link)
-* [Data Visualization](link)</br></br>
+  * 수원시 복지자원 분석 </br></br>
+* [Data Visualization](link)
+  * 노인 언택트 진료 교육인원 배치 최적화
+  * 주정차 관련 민원 현황 파악을 통한 제도 개선</br></br>
 
 ### Methods Used
 * Data Exploration
