@@ -12,7 +12,8 @@ Status: Completed
 * 수원시 정보통신과 빅데이터팀 </br></br>
 
 ### Table of Contents
-* [Data Analytics](link)</br></br>
+* [Data Analytics](link)
+* [Data Visualization](link)</br></br>
 
 ### Methods Used
 * Data Exploration
