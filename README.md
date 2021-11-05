@@ -12,8 +12,7 @@ Status: Completed
 * 수원시 정보통신과 빅데이터팀 </br></br>
 
 ### Table of Contents
-* [Data Analytics](link)
-* [Data Visualization](https://github.com/juunho/Suwon-2021/tree/main/Data%20Visualization) </br></br>
+* [Data Analytics](link)</br></br>
 
 ### Methods Used
 * Data Exploration
