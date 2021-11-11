@@ -28,4 +28,5 @@ Status: Completed
 * Python
 * R
 * IRIS BigdataPlatform, IRIS DSL
+* Jupyter Notebook
 * R Studio
