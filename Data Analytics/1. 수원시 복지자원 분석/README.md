@@ -21,4 +21,25 @@
 - [보고서](https://github.com/juunho/Bigintern-2020/blob/0b6f68b5389980c6af03b0c4dfdf4eddf2eef6e3/Data%20Visualization/2.%20%EC%A3%BC%EC%A0%95%EC%B0%A8%20%EA%B4%80%EB%A0%A8%20%EB%AF%BC%EC%9B%90%20%ED%98%84%ED%99%A9%20%ED%8C%8C%EC%95%85%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%A0%9C%EB%8F%84%20%EA%B0%9C%EC%84%A0/IMAGE/IMG005.png)
 
 - 분석 보고서
-<img src= https://github.com/juunho/Bigintern-2020/blob/050d60f24c988b932e4f2776fe41da1cf33741f1/Data%20Visualization/2.%20%EC%A3%BC%EC%A0%95%EC%B0%A8%20%EA%B4%80%EB%A0%A8%20%EB%AF%BC%EC%9B%90%20%ED%98%84%ED%99%A9%20%ED%8C%8C%EC%95%85%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%A0%9C%EB%8F%84%20%EA%B0%9C%EC%84%A0/IMAGE/IMG001.png>
+<img src= https://github.com/juunho/Bigintern-2020/blob/356d93cfbafbe24b193de4b6b7b93f5f704be436/Data%20Analytics/1.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EB%B3%B5%EC%A7%80%EC%9E%90%EC%9B%90%20%EB%B6%84%EC%84%9D/IMAGE/IMAGE001.png>
+
+---
+
+<img src= https://github.com/juunho/Bigintern-2020/blob/356d93cfbafbe24b193de4b6b7b93f5f704be436/Data%20Analytics/1.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EB%B3%B5%EC%A7%80%EC%9E%90%EC%9B%90%20%EB%B6%84%EC%84%9D/IMAGE/IMAGE002.png>
+
+---
+
+<img src= https://github.com/juunho/Bigintern-2020/blob/356d93cfbafbe24b193de4b6b7b93f5f704be436/Data%20Analytics/1.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EB%B3%B5%EC%A7%80%EC%9E%90%EC%9B%90%20%EB%B6%84%EC%84%9D/IMAGE/IMAGE003.png>
+
+---
+
+<img src= https://github.com/juunho/Bigintern-2020/blob/356d93cfbafbe24b193de4b6b7b93f5f704be436/Data%20Analytics/1.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EB%B3%B5%EC%A7%80%EC%9E%90%EC%9B%90%20%EB%B6%84%EC%84%9D/IMAGE/IMAGE004.png>
+
+---
+
+<img src= https://github.com/juunho/Bigintern-2020/blob/356d93cfbafbe24b193de4b6b7b93f5f704be436/Data%20Analytics/1.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EB%B3%B5%EC%A7%80%EC%9E%90%EC%9B%90%20%EB%B6%84%EC%84%9D/IMAGE/IMAGE005.png>
+
+---
+
+<img src= https://github.com/juunho/Bigintern-2020/blob/356d93cfbafbe24b193de4b6b7b93f5f704be436/Data%20Analytics/1.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EB%B3%B5%EC%A7%80%EC%9E%90%EC%9B%90%20%EB%B6%84%EC%84%9D/IMAGE/IMAGE006.png>
+
