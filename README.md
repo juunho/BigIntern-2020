@@ -2,11 +2,9 @@
 ~~~
 Project : 공공 빅데이터 청년 인턴쉽
 Date : 2020-08-01 ~ 2020-12-22
-Status: Completed
+Description: 
 ~~~
 
-### Project Description
-* ++ </br></br>
 ### Partner
 * 한국정보화진흥원 (NIA)
 * 수원시 정보통신과 빅데이터팀 </br></br>
