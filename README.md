@@ -1,8 +1,8 @@
 ## Big Data Internship
 ~~~
 Project : 공공 빅데이터 청년 인턴쉽
-Date : 2020-08-01 ~ 2020-12-22
-Description: 
+Date : 2020-08 ~ 2020-12
+Description: Data Analytics, Data Visualization 
 ~~~
 
 ### Partner
